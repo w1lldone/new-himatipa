@@ -1,0 +1,725 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"col",
+				"color"
+			],
+			[
+				"null",
+				"null"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"P",
+				"persenr"
+			],
+			[
+				"incl",
+				"incl\tinclude …"
+			],
+			[
+				"mysql_",
+				"mysql_error"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"function",
+				"create_function"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"i",
+				"if\tif …"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"mysq_fect",
+				"mysql_fetch_array"
+			],
+			[
+				"inlc",
+				"incl\tinclude …"
+			],
+			[
+				"tim",
+				"timeline"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"main",
+				"main\tmain"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 18986,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bootstrap-assets/css/bootstrap-theme.css",
+			"settings":
+			{
+				"buffer_size": 26132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bootstrap-assets/css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 147430,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 220 files for \"btn-light\"\n\nD:\\xampp\\htdocs\\new-himatipa\\css\\main.css:\n  101  }\n  102  \n  103: .btn-light {\n  104    background: #fff;\n  105    border: 3px solid #fff;\n  ...\n  119  }\n  120  \n  121: .btn-light:hover,\n  122: .btn-light:focus,\n  123: .btn-light:active {\n  124    background: transparent;\n  125    color: #fff;\n\nD:\\xampp\\htdocs\\new-himatipa\\index.html:\n   95                      <h6>New Design</h6>\n   96                      <h1>More <span>Events</span></h1>\n   97:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Coming Soon</a>\n   98                  </div>\n   99              </div>\n  ...\n  102                      <h6>Stay Tuned</h6>\n  103                      <h1>New Himatipa <span>is Coming</span></h1>\n  104:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Coming Soon</a>\n  105                  </div>\n  106              </div>\n\nD:\\xampp\\htdocs\\new-himatipa\\index00.html:\n   79                      <h6>Branding / Design / Creativty</h6>\n   80                      <h1>We Are <span>Rise</span></h1>\n   81:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Buy Now</a>\n   82                  </div>\n   83              </div>\n   ..\n   86                      <h6>Branding / Design / Creativty</h6>\n   87                      <h1>Creative <span>Design</span></h1>\n   88:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Buy Now</a>\n   89                  </div>\n   90              </div>\n   ..\n   93                      <h6>Branding / Design / Creativty</h6>\n   94                      <h1>Clean <span>Code</span></h1>\n   95:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Buy Now</a>\n   96                  </div>\n   97              </div>\n\nD:\\xampp\\htdocs\\new-himatipa\\index2.html:\n   82                      <img src=\"img/logo/logo-himatipa.png\" class=\"img-responsive center-block\" alt=\"logo\" width=\"150\" height=\"150\">\n   83                      <h1>We Are <span>Himatipa</span></h1>\n   84:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Coming Soon</a>\n   85                  </div>\n   86              </div>\n   ..\n   89                      <h6>New Design</h6>\n   90                      <h1>More <span>Events</span></h1>\n   91:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Coming Soon</a>\n   92                  </div>\n   93              </div>\n   ..\n   96                      <h6>Stay Tuned</h6>\n   97                      <h1>New Himatipa <span>is Coming</span></h1>\n   98:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Coming Soon</a>\n   99                  </div>\n  100              </div>\n\nD:\\xampp\\htdocs\\new-himatipa\\sass\\partials\\_buttons.scss:\n   28  }\n   29  \n   30: .btn-light {\n   31      background: $light-button;\n   32      border: 3px solid $border-button;\n   ..\n   41  }\n   42  \n   43: .btn-light:hover,\n   44: .btn-light:focus,\n   45: .btn-light:active {\n   46      background: transparent;\n   47      color: $Light-primary;\n\n16 matches across 5 files\n",
+			"settings":
+			{
+				"buffer_size": 3393,
+				"line_ending": "Windows",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "mat",
+		"selected_items":
+		[
+			[
+				"mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"go",
+				"Set Syntax: Go"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/new-himatipa"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/new-himatipa/css/main.css",
+		"/D/xampp/htdocs/new-himatipa/index00.html",
+		"/D/xampp/htdocs/new-himatipa/sass/partials/_buttons.scss",
+		"/D/xampp/htdocs/new-himatipa/bootstrap-assets/css/bootstrap-theme.css",
+		"/D/xampp/htdocs/new-himatipa/bootstrap-assets/js/bootstrap.js",
+		"/D/xampp/mysql/data/himatipa/jos_vvcounter_logs.frm",
+		"/D/xampp/htdocs/new-himatipa/plugins/Icons/et-line-font/index.html",
+		"/D/xampp/htdocs/himatipa/configuration.php",
+		"/D/xampp/htdocs/RISE/template-assets/index2.html",
+		"/D/xampp/htdocs/himatipa/index.php",
+		"/D/xampp/php/php.ini",
+		"/D/xampp/phpMyAdmin/phpinfo.php",
+		"/D/xampp/htdocs/himatipa/index2.php",
+		"/D/xampp/htdocs/RISE/template-assets/index.html",
+		"/D/xampp/htdocs/RISE/template-assets/jquery/dist/jquery.js",
+		"/D/xampp/htdocs/RISE/template-assets/jquery/dist/jquery.min.js",
+		"/D/xampp/htdocs/RISE/template-assets/bootstrap-assets/css/bootstrap.css",
+		"/C/Users/Wild One/Desktop/RISE/Documentation/index.html",
+		"/D/xampp/htdocs/mrpikan/README.md",
+		"/D/xampp/htdocs/mrpikan/bower_components/bootstrap/js/carousel.js",
+		"/D/xampp/htdocs/mrpikan/bower_components/bootstrap/dist/js/bootstrap.js",
+		"/D/xampp/htdocs/mrpikan/bower_components/bootstrap/dist/css/bootstrap.css",
+		"/D/xampp/htdocs/mrpikan/bower_components/bootstrap/dist/css/bootstrap-theme.css",
+		"/D/xampp/htdocs/mrpikan/modal.php",
+		"/C/Users/Wild One/Desktop/Acara 3/programB1.m",
+		"/D/xampp/htdocs/mrpikan/pages/index.html",
+		"/D/xampp/htdocs/mrpikan/databaseeeee/mrp_ikan struktur data.sql",
+		"/C/Users/Wild One/Desktop/Carousel Template for Bootstrap.html",
+		"/D/xampp/htdocs/mrpikan/gbr_umum.php",
+		"/C/Users/Wild One/Desktop/karakteristik pelabuhan.htm",
+		"/D/xampp/htdocs/mrpikan/transaksi1.php",
+		"/D/xampp/htdocs/mrpikan/tabel_pk.php",
+		"/D/xampp/htdocs/mrpikan/home.php",
+		"/D/xampp/htdocs/mrpikan/isi.php",
+		"/D/xampp/htdocs/mrpikan/tabel_pd.php",
+		"/D/xampp/htdocs/mrpikan/tabel2.php",
+		"/D/xampp/htdocs/mrpikan/laporan.php",
+		"/D/xampp/htdocs/mrpikan/css/freelancer.min.css",
+		"/D/xampp/htdocs/mrpikan/bower_components/bootstrap/dist/css/bootstrap.min.edit.css",
+		"/D/xampp/htdocs/mrpikan/password.php",
+		"/D/Kuliah/Semester 3/Asisten Instruktur Penkom/PRESENTASI PRAKTIKUM PK/ACARA2/FILE MATLAB/ProgramA2.m",
+		"/D/Kuliah/Semester 3/Asisten Instruktur Penkom/PRESENTASI PRAKTIKUM PK/ACARA2/FILE MATLAB/programA1.m",
+		"/D/xampp/htdocs/mrpikan/insert.php",
+		"/D/xampp/htdocs/mrpikan/transaksi2.php",
+		"/D/xampp/htdocs/mrpikan/input2.php",
+		"/D/xampp/htdocs/mrpikan/input1.php",
+		"/D/xampp/htdocs/mrpikan/css/font.css",
+		"/D/xampp/htdocs/mrpikan/modul.php",
+		"/D/xampp/htdocs/mrpikan/tabel_n.php",
+		"/D/xampp/htdocs/mrpikan/prof_mar.php",
+		"/G/DHila/Aulia Riezky Madhila 11659.m",
+		"/D/xampp/htdocs/mrpikan/data.php",
+		"/D/xampp/htdocs/mrpikan/index.php",
+		"/D/Kuliah/Semester 3/Asisten Instruktur Penkom/PRESENTASI PRAKTIKUM PK/ACARA2/FILE MATLAB/programA3a.m",
+		"/D/Kuliah/Semester 3/Asisten Instruktur Penkom/PRESENTASI PRAKTIKUM PK/ACARA2/FILE MATLAB/tugasacaraA1.m",
+		"/D/xampp/htdocs/mrpikan/bower_components/bootstrap/dist/css/bootstrap.min.css",
+		"/D/xampp/htdocs/mrpikan/input3.php",
+		"/D/xampp/htdocs/mrpikan/logout.php",
+		"/D/xampp/htdocs/mrpikan/js/morris-data.js",
+		"/D/xampp/htdocs/mrpikan/js/flot-data.js",
+		"/D/xampp/htdocs/mrpikan/css/bootstrap.min.css",
+		"/D/xampp/htdocs/mrpikan/bower_components/bootstrap/dist/css/bootstrap-theme.min.css",
+		"/D/xampp/htdocs/mrpikan/grafik-mo.php",
+		"/D/xampp/htdocs/mrpikan/hapus.php",
+		"/D/xampp/htdocs/mrpikan/pages/morris.html",
+		"/D/xampp/htdocs/mrpikan/css/freelancer.min.css.ori.css",
+		"/D/xampp/htdocs/mrpikan/js/morris-data2.js",
+		"/D/xampp/htdocs/mrpikan/bower_components/morrisjs/morris.js",
+		"/D/xampp/htdocs/mrpikan/bower_components/morrisjs/morris.min.js",
+		"/D/xampp/htdocs/mrpikan/tabel1.php",
+		"/D/xampp/htdocs/mrpikan/tabel3.php",
+		"/D/xampp/htdocs/smsku/module/simpan.php",
+		"/D/xampp/htdocs/mrpikan/margin.php",
+		"/D/xampp/htdocs/pakanku/simpan.php",
+		"/D/xampp/htdocs/pakanku/daftar_bh.php",
+		"/D/xampp/htdocs/mrpikan/ceklog.php",
+		"/D/xampp/htdocs/mrpikan/transaksi1-backup.php",
+		"/D/xampp/htdocs/mrpikan/bower_components/bootstrap/less/mixins/vendor-prefixes.less",
+		"/D/xampp/htdocs/mrpikan/cektanggal.php",
+		"/D/xampp/htdocs/pakanku/input_bahan.php",
+		"/D/xampp/htdocs/mrpikan/tabel0.php",
+		"/D/xampp/htdocs/mrpikan/pages/buttons.html",
+		"/D/xampp/htdocs/mrpikan/login.php",
+		"/D/xampp/htdocs/pakanku/logout.php",
+		"/D/xampp/htdocs/mrpikan/pages/tables.html",
+		"/D/xampp/htdocs/mrpikan/tabel21.php",
+		"/D/xampp/htdocs/mrpikan/datepicker.php",
+		"/D/xampp/htdocs/pakanku/dasboard.php",
+		"/D/xampp/htdocs/mrpikan/daftar.php",
+		"/D/xampp/htdocs/pakanku/isi.php",
+		"/D/xampp/htdocs/pakanku/login.php",
+		"/D/xampp/htdocs/mrpikan/grafik.php",
+		"/D/xampp/htdocs/pakanku/password.php",
+		"/D/xampp/htdocs/mrpikan/index.html",
+		"/C/Users/Wild One/Desktop/form_MlKtmY4x.html",
+		"/D/xampp/htdocs/mrpikan/js/bootstrap-datepicker.js",
+		"/C/Users/Wild One/AppData/Local/Temp/Rar$DI00.977/datepicker.css",
+		"/C/Users/Wild One/AppData/Local/Temp/Rar$DI00.549/bootstrap-datepicker.js",
+		"/C/Users/Wild One/Desktop/bootstrap-datepicker.min.js",
+		"/D/xampp/htdocs/mrpikan/bower_components/raphael/raphael-min.js",
+		"/D/xampp/htdocs/mrpikan/bower_components/raphael/raphael.js",
+		"/D/xampp/htdocs/mrpikan/js/data.php",
+		"/D/xampp/htdocs/mrpikan/js/morris-data0.js",
+		"/D/xampp/htdocs/mrpikan/transaksi21.php",
+		"/D/xampp/htdocs/mrpikan/average.php",
+		"/D/xampp/htdocs/mrpikan/pages/grid.html",
+		"/D/xampp/htdocs/mrpikan/pages/panels-wells.html",
+		"/C/Users/Wild One/Desktop/method.go",
+		"/C/Users/Wild One/Desktop/http.go",
+		"/C/Users/Wild One/Desktop/struct.go",
+		"/C/Users/Wild One/Desktop/larik.go",
+		"/C/Users/Wild One/Desktop/banyak.go",
+		"/C/Users/Wild One/Desktop/fungsi.go",
+		"/C/Users/Wild One/Desktop/switch.go",
+		"/C/Users/Wild One/Desktop/logika.go",
+		"/C/Users/Wild One/Desktop/loop.go",
+		"/C/Users/Wild One/Desktop/variables.go",
+		"/C/Users/Wild One/Desktop/values.go",
+		"/C/Users/Wild One/Desktop/hello.go",
+		"/D/Go/bin/src/wildan/models/object.go",
+		"/D/Go/bin/src/wildan/main.go",
+		"/C/Users/Wild One/Desktop/hello",
+		"/C/Users/Wild One/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\xampp\\htdocs\\new-himatipa",
+			"D:\\xampp\\htdocs\\mrpikan\\css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"btn-light",
+			"btn-transparent",
+			"fa",
+			"fun-facts",
+			"icon-lightbulb",
+			"upload_max_filesize",
+			"br1",
+			"'$_POST[tanggal]'",
+			"$_POST[tanggal]",
+			"pelabuhan",
+			"include",
+			"caption",
+			"navbar-custom",
+			"navbar-custom a",
+			"navbar-custom li a",
+			"navbar-custom a",
+			"navbar-custom",
+			"dropdown-menu",
+			"dropdown",
+			"dropdown-toggle",
+			"tooggle",
+			"toogle",
+			"drop",
+			"navbar-custom",
+			"navbar-nav",
+			"navbar-nav li a",
+			"navbar-custom",
+			"navbar-nav>li>a",
+			"navbar-custom>",
+			"navbar-custom",
+			"navbar-custom>li>a",
+			"navbar",
+			".navbar",
+			".navbar-custom",
+			".navbar-custom>li>a",
+			".navbar-nav",
+			".navbar-nav>li>a",
+			"navbar",
+			"dropdown-menu",
+			"navbar-nav",
+			"nav",
+			"dropdown-menu",
+			"dropdown-menu-hitam",
+			"dropdown-menu",
+			"grafik",
+			"succsess",
+			"suc",
+			"area",
+			"btn-outline",
+			"star-light",
+			"modal",
+			"contact",
+			"idt2",
+			"idpd",
+			"where",
+			"idpd",
+			"$idpd",
+			"include",
+			"hr2",
+			"hr1",
+			"row",
+			"lapor",
+			"submit",
+			"$row[",
+			"ambil",
+			"tanggal",
+			"large",
+			"alert",
+			"timeline",
+			"timline",
+			"timeline",
+			"$persr",
+			"persr",
+			"idpg",
+			"idpk",
+			"pengepul",
+			"timeline",
+			"task 1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"link",
+			"'$tanggal'",
+			"$tanggal",
+			"avg(hr2)",
+			"avg(hr1)",
+			"rowa"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 18986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2592,
+								2614
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 605.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bootstrap-assets/css/bootstrap-theme.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1520,
+								1520
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bootstrap-assets/css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 147430,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3703,
+								3703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3372.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3393,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										105,
+										114
+									],
+									[
+										208,
+										217
+									],
+									[
+										233,
+										242
+									],
+									[
+										258,
+										267
+									],
+									[
+										578,
+										587
+									],
+									[
+										890,
+										899
+									],
+									[
+										1248,
+										1257
+									],
+									[
+										1568,
+										1577
+									],
+									[
+										1883,
+										1892
+									],
+									[
+										2312,
+										2321
+									],
+									[
+										2613,
+										2622
+									],
+									[
+										2925,
+										2934
+									],
+									[
+										3101,
+										3110
+									],
+									[
+										3227,
+										3236
+									],
+									[
+										3252,
+										3261
+									],
+									[
+										3277,
+										3286
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								583,
+								583
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "new-himatipa.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pref",
+				"bower_components\\bootstrap\\less\\mixins\\vendor-prefixes.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
