@@ -9,6 +9,12 @@ body {
   overflow-x: hidden;
 }
 
+.box {
+  background: transparent;
+  border: 3px solid #fff;
+  padding: 15px 30px;
+}
+
 .sep {
   max-width: 80px;
   border: 2px solid #0d0d0d;
@@ -23,8 +29,8 @@ body {
   margin-bottom: 40px;
 }
 
-.light-sep-sm {
-  max-width: 80px;
+.light-sep-big {
+  max-width: 900px;
   border: 2px solid #fff;
   margin-top: 10px;
   margin-bottom: 10px;
