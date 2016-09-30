@@ -23,6 +23,13 @@ body {
   margin-bottom: 40px;
 }
 
+.light-sep-sm {
+  max-width: 80px;
+  border: 2px solid #fff;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 /* ==========================================================================
 Typography
 ========================================================================== */
