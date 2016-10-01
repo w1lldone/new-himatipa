@@ -12,7 +12,7 @@ body {
 .box {
   background: transparent;
   border: 3px solid #fff;
-  padding: 30px 30px;
+  padding: 15px 30px;
 }
 
 .sep {
@@ -536,7 +536,6 @@ Fun Facts Style
   padding: 10px 0;
   margin: 0;
 }
-
 #fun-facts span {
   font-size: 48px;
   color: #fff;
@@ -572,12 +571,6 @@ Links
 #links .number {
   color: #fff;
   font-weight: 700;
-  padding: 10px 0;
-  margin: 0;
-}
-#links .nama {
-  color: #fff;
-  font-weight: 550;
   padding: 10px 0;
   margin: 0;
 }
