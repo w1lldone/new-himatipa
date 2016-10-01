@@ -29,6 +29,7 @@
     <link href="css/main.css" rel="stylesheet">
     <!-- Icons Font -->
     <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -114,12 +115,16 @@
             <div class="row wow fadeInUp" data-wow-delay=".3s" style="margin-bottom: 100px;"> 
             <!-- margin-bottom buat menambah spasi dibawah gambar-->
                 <div class="col-lg-4 col-lg-offset-2">
-                    <img class="img-circle center-block" src="img/ph/ajek.jpg" width="175" height="175" alt="logo">
+                    <a href="#" data-toggle="modal" data-target="#aji"> <!-- untuk data target, lihat modal di bagian bawah-->
+                        <img class="img-circle center-block" src="img/ph/ajek.jpg" width="175" height="175" alt="logo">
+                    </a>
                     <h3 class="number timer">Nugrahanto Aji W</h3>
                     <h5>Ketua Himatipa</h5>                    
                 </div>
                 <div class="col-lg-4">
-                    <img class="img-circle center-block" src="img/ph/jadug.jpg" width="175" height="175" alt="logo">
+                    <a href="#" data-toggle="modal" data-target="#jadug"> <!-- untuk data target, lihat modal di bagian bawah-->
+                        <img class="img-circle center-block" src="img/ph/jadug.jpg" width="175" height="175" alt="logo">
+                    </a>    
                     <h3 class="number timer">Hargiono Anityo P</h3>
                     <h5>Sekjen Himatipa</h5>                    
                 </div>
@@ -246,6 +251,72 @@
         </div>
         <!--container-->
     </section>
+
+    <!-- Modal unutk aji-->
+    <div class="modal fade" id="aji" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                    <h4 class="modal-title" id="myModalLabel">More About Aji</h4>
+                    </div>
+                <div class="modal-body">
+                    <center>
+                    <img src="img/ph/ajek.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <h3 class="media-heading">Nugrahanto Aji Wicaksono</h3>
+                        <a href="#"><i class="fa fa-2x fa-facebook"s></i></a>
+                        <a href="#"><i class="fa fa-2x fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-2x fa-instagram"></i></a>
+                    </center>
+                    <hr>
+                    <center>
+                    <p class="text-left"><strong>Bio: </strong><br>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sem dui, tempor sit amet commodo a, vulputate vel tellus.</p>
+                    <br>
+                    </center>
+                </div>
+                <div class="modal-footer">
+                    <center>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </center>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- modal -->
+
+    <!-- Modal unutk jadug-->
+    <div class="modal fade" id="jadug" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                    <h4 class="modal-title" id="myModalLabel">More About Jadug</h4>
+                    </div>
+                <div class="modal-body">
+                    <center>
+                    <img src="img/ph/jadug.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <h3 class="media-heading">Hargiono Anityo P</h3>
+                        <a href="#"><i class="fa fa-2x fa-facebook"s></i></a>
+                        <a href="#"><i class="fa fa-2x fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-2x fa-instagram"></i></a>
+                    </center>
+                    <hr>
+                    <center>
+                    <p class="text-left"><strong>Bio: </strong><br>
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sem dui, tempor sit amet commodo a, vulputate vel tellus.</p>
+                    <br>
+                    </center>
+                </div>
+                <div class="modal-footer">
+                    <center>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    </center>
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <!-- Footer
     ============================================= -->
