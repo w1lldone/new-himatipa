@@ -149,7 +149,7 @@
                         </div>
                         <img class="img-circle center-block" src="img/ph/mutia.jpg" width="175" height="175" alt="logo">
                     </a>
-                    <h3 class="number timer">Mutia Nanda H</h3>
+                    <h3 class="number timer">Mutiara Nanda H</h3>
                     <h5>Bendahara I</h5>                    
                 </div>
                 <div class="col-lg-3">
