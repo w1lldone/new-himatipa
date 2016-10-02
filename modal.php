@@ -12,7 +12,7 @@
                     <h3 class="media-heading" style="margin-top: 20px;">Nugrahanto Aji Wicaksono</h3>
                     <div class="row">
                         <div class="col-lg-4">
-                            <i class="fa fa-3x fa-calendar"></i>
+                            <i class="fa fa-3x fa-gift"></i>
                             <br> 
                             <span class="label label-warning" style="margin-top: 10px;">10 Agustus 94</span>
                         </div>
@@ -60,6 +60,7 @@
             <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
                 <h4 class="modal-title" id="myModalLabel">More About jadug</h4>
+
             </div>
             <div class="modal-body">
                 <center>
@@ -67,7 +68,7 @@
                     <h3 class="media-heading" style="margin-top: 20px;">Hargiono Anityo P</h3>
                     <div class="row">
                         <div class="col-lg-4">
-                            <i class="fa fa-3x fa-calendar"></i>
+                            <i class="fa fa-3x fa-gift"></i>
                             <br> 
                             <span class="label label-warning" style="margin-top: 10px;">10 Juni 95</span>
                         </div>

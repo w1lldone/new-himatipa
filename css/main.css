@@ -579,6 +579,36 @@ Links
   color: #fff;
   margin-bottom: 15px;
 }
+#links  
+ .caption{
+  background:rgba(24,188,156,
+    .9);position:relative;width:175px;height:175px;opacity:0;transition:all ease 
+  .5s;-webkit-transition:all ease 
+  .5s;-moz-transition:all ease 
+  .5s
+ }
+ #links 
+ .caption:hover{
+  opacity:1
+ }
+ #links 
+ .caption 
+ .caption-content{
+  position:relative;width:175px;height:175px;font-size:20px;text-align:center;top:50%;margin-top:-12px;color:#fff
+ }
+ #links 
+ .caption 
+ .caption-content i{
+  margin-top:-12px
+ }
+ #links 
+ .caption 
+ .caption-content h3,#links  
+ .caption 
+ .caption-content h4{
+  margin:0
+ }
+
     /* ==========================================================================
 Our Team Style
 ========================================================================== */
@@ -832,3 +862,43 @@ Media Queries Style
     font-size: 18px;
   }
 }
+
+/*style links tambahan*/
+#links  
+ .caption{
+  background:rgba(24,188,156,
+    .9);
+  position:absolute;
+  left: 58px;
+  width:175px;
+  height:175px;
+  -moz-border-radius: 87px; 
+   -webkit-border-radius: 87px; 
+   border-radius: 87px;
+  opacity:0;
+  transition:all ease 
+  .5s;-webkit-transition:all ease 
+  .5s;-moz-transition:all ease 
+  .5s
+ }
+ #links 
+ .caption:hover{
+  opacity:1
+ }
+ #links 
+ .caption 
+ .caption-content{
+  position:absolute;width:100%;height:5px;font-size:20px;text-align:center;top:50%;margin-top:-12px;color:#fff
+ }
+ #links 
+ .caption 
+ .caption-content i{
+  margin-top:-12px
+ }
+ #links 
+ .caption 
+ .caption-content h3,#links  
+ .caption 
+ .caption-content h4{
+  margin:0
+ }
