@@ -60,9 +60,9 @@
                     <div class="col-md-8 col-xs-12 nav-wrap">
                         <ul class="nav navbar-nav">
                             <li><a href="#owl-hero" class="page-scroll">Home</a></li>
+                            <li><a href="#team" class="page-scroll">Events</a></li>
                             <li><a href="#services" class="page-scroll">Departemen</a></li>
                             <li><a href="#portfolio" class="page-scroll">Galeri</a></li>
-                            <li><a href="#team" class="page-scroll">Events</a></li>
                             <li class="dropdown">
                               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Links <span class="caret"></span></a>
                               <ul class="dropdown-menu">
@@ -119,6 +119,40 @@
         </div>
     </section>
 
+<!-- Events -->
+    <section id="team">
+        <div class="container">
+            <h2>Events</h2>
+            <hr class="sep">
+            <p>Event yang diadakan oleh Himatipa</p>
+            <div class="row wow fadeInUp" data-wow-delay=".3s">
+                <div class="col-md-4">
+                    <div class="team">
+                        <img class="img-responsive center-block" src="img/event/event-swag.jpg" alt="1">
+                        <h4>Seminar Nasional SWAG</h4>
+                        <p>Sucess With Agroindustry</p>
+                        <a class="btn-block" href="#">Get Details</a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="team">
+                        <img class="img-responsive center-block" src="img/event/event-fooshion.jpg" alt="2">
+                        <h4>Fooshion Market</h4>
+                        <p>Food and Fashion</p>
+                        <a class="btn-block" href="#">Get Details</a>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="team">
+                        <img class="img-responsive center-block" src="img/event/event-3.jpg" alt="3">
+                        <h4>ATIC 2016</h4>
+                        <p>Lomba Karya Tulis Ilmiah</p>
+                        <a class="btn-block" href="#">Get Details</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <!-- Services
     ============================================= -->
@@ -179,6 +213,8 @@
             </div>
         </div>
     </section>
+
+    <?php include 'pengurus.php'; ?>
 
     <!-- Portfolio
     ============================================= -->
@@ -282,41 +318,6 @@
         </div>
     </section>
 
-<!-- Events -->
-    <section id="team">
-        <div class="container">
-            <h2>Events</h2>
-            <hr class="sep">
-            <p>Event yang diadakan oleh himatipa</p>
-            <div class="row wow fadeInUp" data-wow-delay=".3s">
-                <div class="col-md-4">
-                    <div class="team">
-                        <img class="img-responsive center-block" src="img/event/event-swag.jpg" alt="1">
-                        <h4>Seminar Nasional SWAG</h4>
-                        <p>Sucess With Agroindustry</p>
-                        <a class="btn-block" href="#">Get Details</a>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="team">
-                        <img class="img-responsive center-block" src="img/event/event-fooshion.jpg" alt="2">
-                        <h4>Fooshion Market</h4>
-                        <p>Food and Fashion</p>
-                        <a class="btn-block" href="#">Get Details</a>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="team">
-                        <img class="img-responsive center-block" src="img/event/event-3.jpg" alt="3">
-                        <h4>ATIC 2016</h4>
-                        <p>Lomba Karya Tulis Ilmiah</p>
-                        <a class="btn-block" href="#">Get Details</a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
 <!--links -->
    <section id="links">
         <div class="container">
@@ -327,19 +328,19 @@
                 <div class="col-lg-4">
                     <span class="icon-gears"></span>
                     <h2 class="number timer">Profil Himatipa</h2>
-                    <h5>Makna Lambang, Kepengurusan, Sejarah, Visi dan Misi</h5>
+                    <h5 style="margin-bottom: 30px">Makna Lambang, Kepengurusan, Sejarah, Visi dan Misi</h5>
                     <a class="btn btn-transparent" href="#">Learn More</a>
                 </div>
                 <div class="col-lg-4">
                     <span class="icon-search"></span>
                     <h2 class="number timer">Database</h2>
-                    <h5>Data Anggota Himatipa, diperbarui tiap tahun</h5>
+                    <h5 style="margin-bottom: 30px">Data Anggota Himatipa, dan Lokasi Kerja Praktek</h5>
                     <a class="btn btn-transparent" href="#">Learn More</a>
                 </div>
                 <div class="col-lg-4">
                     <span class="icon-newspaper"></span>
                     <h2 class="number timer">Biptech</h2>
-                    <h5>Majalah berisi info seputar Himatipa dan TIP</h5>
+                    <h5 style="margin-bottom: 30px">Majalah berisi info seputar Himatipa dan TIP</h5>
                     <a class="btn btn-transparent" href="#">Learn More</a>
                 </div>
             </div>

@@ -581,11 +581,21 @@ Links
 }
 #links  
  .caption{
-  background:rgba(24,188,156,
-    .9);position:relative;width:175px;height:175px;opacity:0;transition:all ease 
+  background:rgba(24,188,156,.9);
+  position:relative;
+  width:175px;
+  height:175px;
+  opacity:0;
+  transition:all ease 
   .5s;-webkit-transition:all ease 
   .5s;-moz-transition:all ease 
   .5s
+ }
+ #links  
+ .bundar {
+  border: 5px solid #fff;
+  width:175px;
+  height:175px;
  }
  #links 
  .caption:hover{
