@@ -21,7 +21,7 @@
 			],
 			[
 				"incl",
-				"incl\tinclude …"
+				"incl	include …"
 			],
 			[
 				"mysql_",
@@ -29,7 +29,7 @@
 			],
 			[
 				"op",
-				"option\tTag"
+				"option	Tag"
 			],
 			[
 				"function",
@@ -37,7 +37,7 @@
 			],
 			[
 				"in",
-				"input\tTag"
+				"input	Tag"
 			],
 			[
 				"sess",
@@ -45,11 +45,11 @@
 			],
 			[
 				"i",
-				"if\tif …"
+				"if	if …"
 			],
 			[
 				"ac",
-				"action\tAttr"
+				"action	Attr"
 			],
 			[
 				"jso",
@@ -61,7 +61,7 @@
 			],
 			[
 				"inlc",
-				"incl\tinclude …"
+				"incl	include …"
 			],
 			[
 				"tim",
@@ -69,7 +69,7 @@
 			],
 			[
 				"di",
-				"div\tTag"
+				"div	Tag"
 			],
 			[
 				"sc",
@@ -85,45 +85,34 @@
 			],
 			[
 				"main",
-				"main\tmain"
+				"main	main"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "index.html",
+			"file": "modal.php",
 			"settings":
 			{
-				"buffer_size": 18986,
-				"encoding": "UTF-8",
+				"buffer_size": 44175,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "bootstrap-assets/css/bootstrap-theme.css",
+			"file": "bagas.html",
 			"settings":
 			{
-				"buffer_size": 26132,
-				"line_ending": "Unix"
+				"buffer_size": 65683,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "bootstrap-assets/css/bootstrap.css",
+			"file": "pengurus.php",
 			"settings":
 			{
-				"buffer_size": 147430,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "Searching 220 files for \"btn-light\"\n\nD:\\xampp\\htdocs\\new-himatipa\\css\\main.css:\n  101  }\n  102  \n  103: .btn-light {\n  104    background: #fff;\n  105    border: 3px solid #fff;\n  ...\n  119  }\n  120  \n  121: .btn-light:hover,\n  122: .btn-light:focus,\n  123: .btn-light:active {\n  124    background: transparent;\n  125    color: #fff;\n\nD:\\xampp\\htdocs\\new-himatipa\\index.html:\n   95                      <h6>New Design</h6>\n   96                      <h1>More <span>Events</span></h1>\n   97:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Coming Soon</a>\n   98                  </div>\n   99              </div>\n  ...\n  102                      <h6>Stay Tuned</h6>\n  103                      <h1>New Himatipa <span>is Coming</span></h1>\n  104:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Coming Soon</a>\n  105                  </div>\n  106              </div>\n\nD:\\xampp\\htdocs\\new-himatipa\\index00.html:\n   79                      <h6>Branding / Design / Creativty</h6>\n   80                      <h1>We Are <span>Rise</span></h1>\n   81:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Buy Now</a>\n   82                  </div>\n   83              </div>\n   ..\n   86                      <h6>Branding / Design / Creativty</h6>\n   87                      <h1>Creative <span>Design</span></h1>\n   88:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Buy Now</a>\n   89                  </div>\n   90              </div>\n   ..\n   93                      <h6>Branding / Design / Creativty</h6>\n   94                      <h1>Clean <span>Code</span></h1>\n   95:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Buy Now</a>\n   96                  </div>\n   97              </div>\n\nD:\\xampp\\htdocs\\new-himatipa\\index2.html:\n   82                      <img src=\"img/logo/logo-himatipa.png\" class=\"img-responsive center-block\" alt=\"logo\" width=\"150\" height=\"150\">\n   83                      <h1>We Are <span>Himatipa</span></h1>\n   84:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Coming Soon</a>\n   85                  </div>\n   86              </div>\n   ..\n   89                      <h6>New Design</h6>\n   90                      <h1>More <span>Events</span></h1>\n   91:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Coming Soon</a>\n   92                  </div>\n   93              </div>\n   ..\n   96                      <h6>Stay Tuned</h6>\n   97                      <h1>New Himatipa <span>is Coming</span></h1>\n   98:                     <a class=\"btn btn-transparent\" href=\"#\">Learn More</a><a class=\"btn btn-light\" href=\"#\">Coming Soon</a>\n   99                  </div>\n  100              </div>\n\nD:\\xampp\\htdocs\\new-himatipa\\sass\\partials\\_buttons.scss:\n   28  }\n   29  \n   30: .btn-light {\n   31      background: $light-button;\n   32      border: 3px solid $border-button;\n   ..\n   41  }\n   42  \n   43: .btn-light:hover,\n   44: .btn-light:focus,\n   45: .btn-light:active {\n   46      background: transparent;\n   47      color: $Light-primary;\n\n16 matches across 5 files\n",
-			"settings":
-			{
-				"buffer_size": 3393,
-				"line_ending": "Windows",
-				"name": "Find Results",
-				"scratch": true
+				"buffer_size": 15814,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -187,10 +176,15 @@
 	},
 	"expanded_folders":
 	[
-		"/D/xampp/htdocs/new-himatipa"
+		"/C/xampp/htdocs/himatipa"
 	],
 	"file_history":
 	[
+		"/C/xampp/htdocs/himatipa/bagas.html",
+		"/C/xampp/htdocs/himatipa/Data Anggota Himatipa Angkatan 2013.html",
+		"/C/xampp/htdocs/himatipa/bootstrap-assets/css/bootstrap.css",
+		"/C/xampp/htdocs/himatipa/bootstrap-assets/css/bootstrap-theme.css",
+		"/C/xampp/htdocs/himatipa/index.html",
 		"/D/xampp/htdocs/new-himatipa/css/main.css",
 		"/D/xampp/htdocs/new-himatipa/index00.html",
 		"/D/xampp/htdocs/new-himatipa/sass/partials/_buttons.scss",
@@ -317,7 +311,7 @@
 	],
 	"find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -439,19 +433,47 @@
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
+					"file": "modal.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 18986,
+						"buffer_size": 44175,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2592,
-								2614
+								43924,
+								43924
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 13410.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "bagas.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 65683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22613,
+								22613
 							]
 						],
 						"settings":
@@ -461,37 +483,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 605.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "bootstrap-assets/css/bootstrap-theme.css",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 26132,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1520,
-								1520
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 3285.0,
+						"translation.y": 5415.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -499,135 +491,29 @@
 				},
 				{
 					"buffer": 2,
-					"file": "bootstrap-assets/css/bootstrap.css",
+					"file": "pengurus.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 147430,
+						"buffer_size": 15814,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3703,
-								3703
+								14787,
+								14787
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax",
-							"tab_size": 2,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3372.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3393,
-						"regions":
-						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										105,
-										114
-									],
-									[
-										208,
-										217
-									],
-									[
-										233,
-										242
-									],
-									[
-										258,
-										267
-									],
-									[
-										578,
-										587
-									],
-									[
-										890,
-										899
-									],
-									[
-										1248,
-										1257
-									],
-									[
-										1568,
-										1577
-									],
-									[
-										1883,
-										1892
-									],
-									[
-										2312,
-										2321
-									],
-									[
-										2613,
-										2622
-									],
-									[
-										2925,
-										2934
-									],
-									[
-										3101,
-										3110
-									],
-									[
-										3227,
-										3236
-									],
-									[
-										3252,
-										3261
-									],
-									[
-										3277,
-										3286
-									]
-								],
-								"scope": ""
-							}
-						},
-						"selection":
-						[
-							[
-								583,
-								583
-							]
-						],
-						"settings":
-						{
-							"detect_indentation": false,
-							"line_numbers": false,
-							"output_tag": 1,
-							"result_base_dir": "",
-							"result_file_regex": "^([^ \t].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1290.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -638,7 +524,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 34.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -675,7 +561,7 @@
 	"project": "new-himatipa.sublime-project",
 	"replace":
 	{
-		"height": 62.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -717,7 +603,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 207.0,
+	"side_bar_width": 50.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
