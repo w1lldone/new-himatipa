@@ -37,10 +37,10 @@
                 </div>
                 <div class="modal-footer text-center">
                     <div class="col-lg-4">
-                        <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                        <a href="https://www.facebook.com/nugrajino" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                     </div>
                     <div class="col-lg-4">
-                        <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                        <a href="https://twitter.com/nugrajino" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
                     </div>
                     <div class="col-lg-4">
                         <a href="https://www.instagram.com/nugrajino/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>
@@ -94,10 +94,10 @@
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/hargiono.pradopo" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                            <a href="https://twitter.com/hargionoAP" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="https://www.instagram.com/jadugx/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>
@@ -145,13 +145,13 @@
                 <hr>
                 <center>
                     <p class="text-left"><strong>Bio: </strong><br>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sem dui, tempor sit amet commodo a, vulputate vel tellus.</p>
+                        Strongest person grow with the wind against them.</p>
                         <br>
                     </center>
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/harizcamut" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
@@ -201,17 +201,17 @@
                 </center>
                 <hr>
                 <center>
-                    <p class="text-left"><strong>Bio: </strong><br>
+                    <p class="text-left"><strong>Motto: </strong><br>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sem dui, tempor sit amet commodo a, vulputate vel tellus.</p>
                         <br>
                     </center>
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/neisyafitri" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                            <a href="https://twitter.com/neisyafitri" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="https://www.instagram.com/neisyafitri/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>
@@ -265,10 +265,10 @@
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/nurlaila.qodriwati" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                            <a href="https://twitter.com/nurlailaqdrwt" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="https://www.instagram.com/nurlailaqdrwt/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>
@@ -322,10 +322,10 @@
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/liaapr.ningsih" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                            <a href="https://twitter.com/liaaks" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="https://www.instagram.com/liaprningsih/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>
@@ -379,10 +379,10 @@
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/ari.a.hermawan.7" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                            <a href="https://twitter.com/rapatkan" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="https://www.instagram.com/ari7adhi/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>
@@ -436,7 +436,7 @@
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/rizaldjm" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
@@ -493,10 +493,10 @@
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/juven.marcellino" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                            <a href="https://twitter.com/juvenmarcelino" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="https://www.instagram.com/juvenmarc/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>
@@ -550,7 +550,7 @@
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/wahyu.w.wahono" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
@@ -607,10 +607,10 @@
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/ario.pratama" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                            <a href="https://twitter.com/ario_gp" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="https://www.instagram.com/arioprtm/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>
@@ -664,10 +664,10 @@
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/ibnu.nasrudin.7" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                            <a href="https://twitter.com/ibnunsrdn" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="https://www.instagram.com/ibnunsrdn/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>
@@ -721,10 +721,10 @@
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/chndrwoow" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                            <a href="https://twitter.com/chndrwoow" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="https://www.instagram.com/chndrwoow/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>
@@ -778,10 +778,10 @@
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/anisah.ready" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                            <a href="https://twitter.com/anisahtok" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="https://www.instagram.com/anisahriyadi/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>
@@ -835,10 +835,10 @@
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/fazlushidqie" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                            <a href="https://twitter.com/fazlushdqie" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="https://www.instagram.com/fazlushdqie/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>
@@ -892,10 +892,10 @@
                 </div>
                 <div class="modal-footer text-center">
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-facebook fa-2x"></i></a>
+                            <a href="https://www.facebook.com/septareza" target="blank"><i class="fa fa-facebook fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
-                            <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+                            <a href="https://twitter.com/sptrza" target="blank"><i class="fa fa-twitter fa-2x"></i></a>
                         </div>
                         <div class="col-lg-4">
                             <a href="https://www.instagram.com/sptrza/" target="blank"><i class="fa fa-instagram fa-2x"></i></a>

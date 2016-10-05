@@ -75,9 +75,9 @@
                     </div>
                     <div class="social-media hidden-sm hidden-xs">
                         <ul class="nav navbar-nav">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="https://www.facebook.com/groups/127217694034867/" target="blank"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="https://twitter.com/HIMATIPAUGM/" target="blank"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="https://www.instagram.com/himatipa_ugm/" target="blank"><i class="fa fa-instagram"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -90,18 +90,17 @@
                     <h1>We Are <span>Himatipa</span></h1>
                 </div>
             </div>
-            <div class="item" style="background-image: url(img/sliders/slide-3.jpg)">
+            <div class="item" style="background-image: url(img/sliders/slide-14.jpg)">
                 <div class="caption">
-                    <h6>New Design</h6>
-                    <h1>More <span>Events</span></h1>
-                    <a class="btn btn-transparent" href="#">Learn More</a><a class="btn btn-light" href="#">Fooshion</a>
+                    <h6>CIMORY</h6>
+                    <h1>Kunjungan <span>Industri</span></h1>                               
                 </div>
             </div>
-            <div class="item" style="background-image: url(img/sliders/slide-2.jpg)">
+            <div class="item" style="background-image: url(img/sliders/slide-3.jpg)">
                 <div class="caption">
-                    <h6>Stay Tuned</h6>
-                    <h1>New Himatipa <span>is Coming</span></h1>
-                    <a class="btn btn-transparent" href="#">Learn More</a><a class="btn btn-light" href="#">Fooshion</a>
+                    <h6>FOOSHION</h6>
+                    <h1>FOOD AND<span>FASHION</span></h1>
+                    <a class="btn btn-transparent" href="http://himatipa.tp.ugm.ac.id/main/fooshion-market/">Learn More</a>
                 </div>
             </div>
         </div>
@@ -131,7 +130,7 @@
                         <img class="img-responsive center-block" src="img/event/event-swag.jpg" alt="1">
                         <h4>Seminar Nasional SWAG</h4>
                         <p>Sucess With Agroindustry</p>
-                        <a class="btn-block" href="#">Get Details</a>
+                        <a class="btn-block" href="/main/senimar-nasional-swag/">Get Details</a>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -139,7 +138,7 @@
                         <img class="img-responsive center-block" src="img/event/event-fooshion.jpg" alt="2">
                         <h4>Fooshion Market</h4>
                         <p>Food and Fashion</p>
-                        <a class="btn-block" href="#">Get Details</a>
+                        <a class="btn-block" href="/main/fooshion-market/">Get Details</a>
                     </div>
                 </div>
                 <div class="col-md-4">
@@ -147,7 +146,7 @@
                         <img class="img-responsive center-block" src="img/event/event-3.jpg" alt="3">
                         <h4>ATIC 2016</h4>
                         <p>Lomba Karya Tulis Ilmiah</p>
-                        <a class="btn-block" href="#">Get Details</a>
+                        <a class="btn-block" href="/main/lkti-swag-2016/">Get Details</a>
                     </div>
                 </div>
             </div>
@@ -168,7 +167,7 @@
                             <div class="media-left"><span class=" icon-profile-male"></span></div>
                             <div class="media-body">
                                 <h3>Pengkaderan</h3>
-                                <p>Mengkaderisasi dan menjembatani sifat leader yang tertanam pada diri masing-masing individu. <a href="#">Learn More...</a></p>
+                                <p>Mengkaderisasi dan menjembatani sifat leader yang tertanam pada diri masing-masing individu. <a href="/main/pengkaderan/">Learn More...</a></p>
                             </div>
 
                         </div>
@@ -176,14 +175,14 @@
                             <div class="media-left"><span class="icon-briefcase"></span></div>
                             <div class="media-body">
                                 <h3>Kewirausahaan</h3>
-                                <p>Departemen ini bergerak di bidang kewirausahaan. Penganggung jawab Jaslab, PDL, BPT. <a href="#">Learn More...</a></p>
+                                <p>Departemen ini bergerak di bidang kewirausahaan. Penganggung jawab Jaslab, PDL, BPT. <a href="/main/kewirausahaan/">Learn More...</a></p>
                             </div>
                         </div>
                         <div class="col-md-4">
                             <div class="media-left"><span class="icon-rss"></span></div>
                             <div class="media-body">
                                 <h3>Jaringan Eksternal</h3>
-                                <p>Penghubung Teknologi Industri Pertanian dengan lingkungan di luar yang berhubungan dengan keTIPan. <a href="#">Learn More...</a></p>
+                                <p>Penghubung Teknologi Industri Pertanian dengan lingkungan di luar yang berhubungan dengan keTIPan. <a href="/main/jaringan-eksternal/">Learn More...</a></p>
                             </div>
                         </div>
                     </div>
@@ -194,7 +193,7 @@
                             <div class="media-left"><span class="icon-camera"></span></div>
                             <div class="media-body">
                                 <h3>Pers dan Sistem Informasi</h3>
-                                <p>Departemen PSI fokus di bidang Jurnalistik, web, desain grafis dan fotografi. <a href="#">Learn More...</a></p>
+                                <p>Departemen PSI fokus di bidang Jurnalistik, web, desain grafis dan fotografi. <a href="/main/pers-dan-sistem-informasi/">Learn More...</a></p>
                             </div>
 
                         </div>
@@ -202,7 +201,7 @@
                             <div class="media-left"><span class="icon-tools"></span></div>
                             <div class="media-body">
                                 <h3>Profesionalisme Akademik</h3>
-                                <p>Fokus di bidang akademik, di antaranya adalah Sosialisasi Beasiswa, Diskusi Kerja Praktek. <a href="#">Learn More...</a></p>
+                                <p>Fokus di bidang akademik, di antaranya adalah Sosialisasi Beasiswa, Diskusi Kerja Praktek. <a href="/main/profesionalisme-akademik/">Learn More...</a></p>
                             </div>
 
                         </div>
@@ -329,13 +328,13 @@
                     <span class="icon-gears"></span>
                     <h2 class="number timer">Profil Himatipa</h2>
                     <h5 style="margin-bottom: 30px">Makna Lambang, Kepengurusan, Sejarah, Visi dan Misi</h5>
-                    <a class="btn btn-transparent" href="#">Learn More</a>
+                    <a class="btn btn-transparent" href="/main/category/links/profil/">Learn More</a>
                 </div>
                 <div class="col-lg-4">
                     <span class="icon-search"></span>
                     <h2 class="number timer">Database</h2>
                     <h5 style="margin-bottom: 30px">Data Anggota Himatipa, dan Lokasi Kerja Praktek</h5>
-                    <a class="btn btn-transparent" href="#">Learn More</a>
+                    <a class="btn btn-transparent" href="/main/category/links/database/">Learn More</a>
                 </div>
                 <div class="col-lg-4">
                     <span class="icon-newspaper"></span>
@@ -357,7 +356,7 @@
                 <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
                 <a href="#"><i class="fa fa-instagram fa-2x"></i></a>
             </div>
-            <h6>&copy; 2016 Web.Himatipa.UGM By <a href="https://www.facebook.com/Wildan.ar.rahman">w1lldone</a> - PSI</h6>
+            <h6>&copy; 2016 Web.Himatipa.UGM By <a href="https://www.facebook.com/Wildan.ar.rahman">w1lldone</a> & <a href="https://facebook.com/bagas95waras">BGZ</a> - PSI</h6>
         </div>
     </footer>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
