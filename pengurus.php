@@ -25,11 +25,6 @@
             <div class="row" style="margin-bottom: 30px;">
                 <div class="col-lg-3">
                     <a href="#" data-toggle="modal" data-target="#mutia"> <!-- untuk data target, lihat modal di bagian bawah-->
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-user fa-2x"></i>
-                            </div>
-                        </div>
                         <img class="img-circle center-block bundar" src="img/ph/mutia.jpg" width="175" height="175" alt="logo">
                     </a>
                     <h3 class="number timer">Mutiara Nanda H</h3>
@@ -37,11 +32,6 @@
                 </div>
                 <div class="col-lg-3">
                     <a href="#" data-toggle="modal" data-target="#rendayu"> <!-- untuk data target, lihat modal di bagian bawah-->
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-user fa-2x"></i>
-                            </div>
-                        </div>
                         <img class="img-circle center-block bundar" src="img/ph/rendayu.jpg" width="175" height="175" alt="logo">
                     </a>
                     <h3 class="number timer">Rendayu Jonda N</h3>
@@ -49,11 +39,6 @@
                 </div>
                 <div class="col-lg-3">
                     <a href="#" data-toggle="modal" data-target="#nurlaila"> <!-- untuk data target, lihat modal di bagian bawah-->
-                        <div class="caption" >
-                            <div class="caption-content">
-                                <i class="fa fa-user fa-2x"></i>
-                            </div>
-                        </div>
                         <img class="img-circle center-block bundar" src="img/ph/nurlaila.jpg" width="175" height="175" alt="logo">
                     </a>
                     <h3 class="number timer">Nurlaila Qodriwati</h3>
@@ -61,11 +46,6 @@
                 </div>
                 <div class="col-lg-3">
                     <a href="#" data-toggle="modal" data-target="#lia-a"> <!-- untuk data target, lihat modal di bagian bawah-->
-                        <div class="caption">
-                            <div class="caption-content">
-                                <i class="fa fa-user fa-2x"></i>
-                            </div>
-                        </div>
                         <img class="img-circle center-block bundar" src="img/ph/lia-a.jpg" width="175" height="175" alt="logo">
                     </a>
                     <h3 class="number timer">Lia Aprilia N</h3>
