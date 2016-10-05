@@ -84,7 +84,7 @@
             </div>
         </nav>
         <div id="owl-hero" class="owl-carousel owl-theme">
-            <div class="item" style="background-image: url(img/sliders/slide-1.jpg)">
+            <div class="item" style="background-image: url(img/sliders/slide-13.jpg)">
                 <div class="caption">
                     <img src="img/logo/logo-himatipa.png" class="img-responsive center-block" alt="logo" width="150" height="150">
                     <h1>We Are <span>Himatipa</span></h1>
@@ -94,14 +94,14 @@
                 <div class="caption">
                     <h6>New Design</h6>
                     <h1>More <span>Events</span></h1>
-                    <a class="btn btn-transparent" href="#">Learn More</a><a class="btn btn-light" href="#">Coming Soon</a>
+                    <a class="btn btn-transparent" href="#">Learn More</a><a class="btn btn-light" href="#">Fooshion</a>
                 </div>
             </div>
             <div class="item" style="background-image: url(img/sliders/slide-2.jpg)">
                 <div class="caption">
                     <h6>Stay Tuned</h6>
                     <h1>New Himatipa <span>is Coming</span></h1>
-                    <a class="btn btn-transparent" href="#">Learn More</a><a class="btn btn-light" href="#">Coming Soon</a>
+                    <a class="btn btn-transparent" href="#">Learn More</a><a class="btn btn-light" href="#">Fooshion</a>
                 </div>
             </div>
         </div>
@@ -111,7 +111,7 @@
     ============================================= -->
     <section id="welcome">
         <div class="container">
-            <h2>Coming <span>Soon</span></h2>
+            <h2>We are <span>Himatipa</span></h2>
             <hr class="sep">
             <p>Himpunan Mahasiswa Teknologi Industri Pertanian</p>
             <p>Universitas Gadjah Mada</p>

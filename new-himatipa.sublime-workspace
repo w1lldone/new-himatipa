@@ -108,10 +108,26 @@
 			}
 		},
 		{
-			"file": "pengurus.php",
+			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 15814,
+				"buffer_size": 19389,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bootstrap-assets/css/bootstrap-theme.css",
+			"settings":
+			{
+				"buffer_size": 26132,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "bootstrap-assets/css/bootstrap.min.css",
+			"settings":
+			{
+				"buffer_size": 136830,
 				"line_ending": "Windows"
 			}
 		}
@@ -176,11 +192,16 @@
 	},
 	"expanded_folders":
 	[
-		"/C/xampp/htdocs/himatipa"
+		"/C/xampp/htdocs/himatipa",
+		"/C/xampp/htdocs/himatipa/bootstrap-assets",
+		"/C/xampp/htdocs/himatipa/bootstrap-assets/css",
+		"/C/xampp/htdocs/himatipa/css"
 	],
 	"file_history":
 	[
 		"/C/xampp/htdocs/himatipa/bagas.html",
+		"/C/xampp/htdocs/himatipa/pengurus.php",
+		"/C/xampp/htdocs/himatipa/index00.html",
 		"/C/xampp/htdocs/himatipa/Data Anggota Himatipa Angkatan 2013.html",
 		"/C/xampp/htdocs/himatipa/bootstrap-assets/css/bootstrap.css",
 		"/C/xampp/htdocs/himatipa/bootstrap-assets/css/bootstrap-theme.css",
@@ -305,9 +326,7 @@
 		"/C/Users/Wild One/Desktop/values.go",
 		"/C/Users/Wild One/Desktop/hello.go",
 		"/D/Go/bin/src/wildan/models/object.go",
-		"/D/Go/bin/src/wildan/main.go",
-		"/C/Users/Wild One/Desktop/hello",
-		"/C/Users/Wild One/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings"
+		"/D/Go/bin/src/wildan/main.go"
 	],
 	"find":
 	{
@@ -444,8 +463,8 @@
 						"selection":
 						[
 							[
-								43924,
-								43924
+								41445,
+								41445
 							]
 						],
 						"settings":
@@ -453,7 +472,7 @@
 							"syntax": "Packages/PHP/PHP.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 13410.0,
+						"translation.y": 13035.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -472,51 +491,107 @@
 						"selection":
 						[
 							[
-								22613,
-								22613
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 5415.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "pengurus.php",
+					"file": "css/main.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 15814,
+						"buffer_size": 19389,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14787,
-								14787
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax",
-							"tab_size": 4,
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 0.0,
-						"translation.y": 1290.0,
+						"translation.x": -0.0,
+						"translation.y": 1935.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "bootstrap-assets/css/bootstrap-theme.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "bootstrap-assets/css/bootstrap.min.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 136830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -603,7 +678,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 50.0,
+	"side_bar_width": 232.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
