@@ -73,7 +73,6 @@
                                         </div>                         
                                         <label>Gambar</label>
                                         <div class="form-group input-group">
-                                            <span class="input-group-addon"><i class="fa fa-file-photo-o"></i></span>
                                             <input type="file" name="fileToUpload" id="fileToUpload">
                                         </div>
                                         <label>Link</label>
