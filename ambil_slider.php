@@ -1,6 +1,6 @@
 <?php 
     include 'beta/config.php';
-    $sql="select * from slider order by ids desc limit 2";
+    $sql="select * from slider where status=1 order by urut asc";
     $q=mysql_query($sql) or die(mysql_error());
     while ($row=mysql_fetch_array($q)){
 ?>

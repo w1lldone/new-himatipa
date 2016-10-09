@@ -8,7 +8,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/ajek.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/ajek.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Nugrahanto Aji Wicaksono</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -70,7 +70,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/jadug.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/jadug.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Hargiono Anityo Pradopo</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -132,7 +132,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/mutia.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/mutia.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Mutiara Nanda Harizca</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -194,7 +194,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/rendayu.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/rendayu.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Rendayu Jonda Neisyafitri</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -256,7 +256,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/nurlaila.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/nurlaila.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Nurlaila Qodriwati</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -318,7 +318,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/lia-a.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/lia-a.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Lia Aprilia Ningsih</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -380,7 +380,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/ari.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/ari.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Ari Adhi Hermawan</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -442,7 +442,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/rizal-d.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/rizal-d.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Rizal Dananjaya</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -504,7 +504,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/juven.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/juven.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Juven Marcelino</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -566,7 +566,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/wahyu.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/wahyu.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Wahyu Windayanti</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -628,7 +628,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/aryo.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/aryo.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Ario Ganang Pratama</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -690,7 +690,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/ibnu.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/ibnu.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Ibnu Nasrudin</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -752,7 +752,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/chandra.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/chandra.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Chandra Wahyu Kurniawan</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -814,7 +814,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/anisah.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/anisah.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Anisah Riyadi</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -876,7 +876,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/azul.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/azul.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Fazlus Shidqie</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
@@ -938,7 +938,7 @@
             </div>
             <div class="modal-body">
                 <center>
-                    <img src="img/ph/septa.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></a>
+                    <img src="img/ph/septa.jpg" name="aboutme" width="140" height="140" border="0" class="img-circle"></img>
                     <h3 class="media-heading" style="margin-top: 20px;">Septareza Ilham Aviganandae</h3>
                     <div class="row">
                         <div class="col-lg-4 col-xs-4">
