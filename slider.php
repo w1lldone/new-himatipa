@@ -49,7 +49,81 @@
                     <h1>We Are <span>Himatipa</span></h1>
                 </div>
             </div>
-            <?php include 'ambil_slider.php'; ?>
+            <?php 
+            include 'beta/config.php';
+            $sql="select * from slider where status=1 order by urut asc";
+            $q=mysql_query($sql) or die(mysql_error());
+            while ($row=mysql_fetch_array($q)){
+                ?>
+                <div class="item" style="background-image: url(<?php echo $row['gambar']; ?>)">
+                    <div class="caption">
+                        <h6><?php echo $row['subjudul']; ?></h6>
+                        <h1><?php echo $row['judul']; ?> <span><?php echo $row['judul2']; ?></span></h1>
+                        <a class="btn btn-transparent" href="<?php echo $row['link']; ?>">Learn More</a>
+                    </div>
+                </div>
+
+                <?php } ?>
+        </div>
+    </section>
+
+    <!-- Events -->
+    <section id="team">
+        <div class="container">
+            <h2>Events</h2>
+            <hr class="sep">
+            <p>Event yang diadakan oleh Himatipa</p>
+            <div class="row wow fadeInUp" data-wow-delay=".3s">
+                <?php 
+                $sql="select * from event where status=1 order by urut asc limit 3";
+                $q=mysql_query($sql) or die(mysql_error());
+                while ($row=mysql_fetch_array($q)){
+                ?>
+                    <div class="col-md-4">
+                        <div class="team">
+                            <img class="img-responsive center-block" src="<?php echo $row['gambar'] ?>" alt="1">
+                            <h4><?php echo $row['judul'] ?></h4>
+                            <p><?php echo $row['subjudul'] ?></p>
+                            <a class="btn-block" href="<?php echo $row['link'] ?>">Get Details</a>
+                        </div>
+                    </div>
+
+                <?php } ?>
+            </div>
+        </div>
+    </section>
+
+    <!-- Portfolio
+    ============================================= -->
+    <section id="portfolio">
+        <div class="container-fluid">
+            <h2>Galeri</h2>
+            <hr class="sep">
+            <p>Dokumentasi Kegiatan Himatipa</p>
+            <div class="row">
+            <?php 
+                $sql="select * from galeri where status=1 order by urut asc limit 6";
+                $q=mysql_query($sql) or die(mysql_error());
+                while ($row=mysql_fetch_array($q)){
+            ?>
+                <div class="col-lg-4 col-sm-6 wow fadeInUp" data-wow-delay=".3s">
+                    <a class="portfolio-box" href="<?php echo $row['link']; ?>">
+                        <img src="<?php echo $row['gambar']; ?>" class="img-responsive" alt="1">
+                        <div class="portfolio-box-caption">
+                            <div class="portfolio-box-caption-content">
+                                <div class="project-category text-faded">
+                                    <?php echo $row['judul']; ?>
+                                </div>
+                                <div class="project-name">
+                                    <?php echo $row['subjudul']; ?>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                <?php } ?>
+                
+            </div>
         </div>
     </section>
 
