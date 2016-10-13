@@ -1,3 +1,8 @@
+<?php
+	include 'cekadmin.php'; 
+	if ($_SESSION['pref']=='admin') {
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -17,7 +22,7 @@
     <link href="../bootstrap-assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- favicon -->
-    <link rel="shortcut icon" type="image/png" href="img/logo/logo-besar.png"/>
+    <link rel="shortcut icon" type="image/png" href="../img/logo/logo-besar.png"/>
 
     <!-- MetisMenu CSS -->
     <link href="bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
@@ -143,3 +148,5 @@
 </body>
 
 </html>
+
+<?php } ?>

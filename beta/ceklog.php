@@ -1,5 +1,5 @@
 <?php
-	include"data.php";
+	include"config.php";
 
 	$pass=md5($_POST['password']);
 	$user=$_POST['username'];
@@ -13,12 +13,8 @@
 			$_SESSION['nama']=$rs['nama'];
 			$_SESSION['pref']=$rs['privilage'];
 			$_SESSION['idsk']=$rs['idsk'];
-		if ($rs['privilage']=='tpi') {
-			header('location:modul.php?isi=awal');
-		}
-		if ($rs['privilage']=='admin') {
-			header('location:modul.php?isi=prof_mar');
-		}					
+
+			header('location:modul.php?isi=slider-tabel');		
 			
 	} 
 	else{
