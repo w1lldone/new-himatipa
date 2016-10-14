@@ -136,6 +136,10 @@
     <script src="bower_components/datatables/media/js/jquery.dataTables.min.js"></script>
     <script src="bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.min.js"></script>
 
+    <!-- Bootstrap Date-Picker Plugin -->
+    <script type="text/javascript" src="../js/bootstrap-datepicker.min.js"></script>
+    <link rel="stylesheet" href="../css/bootstrap-datepicker3.css"/>
+
     <!-- Page-Level Demo Scripts - Tables - Use for reference -->
 
 	<script>
@@ -145,6 +149,21 @@
 	        });
 	    });
 	</script>
+
+	<!-- Date picker -->
+    <script>
+        $(document).ready(function(){
+        var date_input=$('input[name="tanggal"]'); //our date input has the name "date"
+        var container=$('.bootstrap-iso form').length>0 ? $('.bootstrap-iso form').parent() : "body";
+        var options={
+            format: 'yyyy-mm-dd',
+            container: container,
+            todayHighlight: true,
+            autoclose: true,
+        };
+        date_input.datepicker(options);
+        })  
+    </script> 
 </body>
 
 </html>

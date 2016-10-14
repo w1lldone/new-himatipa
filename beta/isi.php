@@ -28,6 +28,16 @@
 			include "galeri/galeri-edit.php";
 		}
 
+		if($_GET['isi']=="pengurus-tabel"){
+			include "pengurus/pengurus-tabel.php";
+		}
+		if($_GET['isi']=="pengurus-input"){
+			include "pengurus/pengurus-input.php";
+		}
+		if($_GET['isi']=="pengurus-edit"){
+			include "pengurus/pengurus-edit.php";
+		}
+
 	
 
 ?>
