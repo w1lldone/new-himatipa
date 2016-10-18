@@ -47,4 +47,14 @@
 		mysql_query("update $tabel set urut = $start where id = $bawah ");
 		mysql_query("update $tabel set urut = $down where id = $id");
 	}
+
+	function pengurus($id){
+		$sql="select * from pengurus where id = $id ";
+        $q=mysql_query($sql) or die(mysql_error());
+        $row=mysql_fetch_array($q);
+	    echo "<a href='#' data-toggle='modal' data-target='#$row[panggilan]'>";
+	    echo 	"<img class='img-circle center-block bundar' src='$row[gambar]' width='175' height='175' alt='logo'></a>";
+        echo "<h3 class='number timer'>$row[nama]</h3>";
+        echo "<h5>$row[jabatan]</h5>";
+	}
 ?>

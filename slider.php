@@ -51,6 +51,7 @@
             </div>
             <?php 
             include 'beta/config.php';
+            include 'beta/data.php';
             $sql="select * from slider where status=1 order by urut asc";
             $q=mysql_query($sql) or die(mysql_error());
             while ($row=mysql_fetch_array($q)){
@@ -126,6 +127,121 @@
             </div>
         </div>
     </section>
+
+    <section id="links">
+        <div class="container wow fadeInUp" data-wow-delay=".3s">
+            <h2>Struktur Kepengurusan </h2>
+            <hr class="light-sep">
+            <p>Pengurus Harian Himatipa 2016</p>
+            <div class="row" style="margin-bottom: 60px;"> 
+                <!-- margin-bottom buat menambah spasi dibawah gambar-->
+                <div class="col-lg-4 col-lg-offset-2">
+                    <?php pengurus(1); ?>                
+                </div>
+                <div class="col-lg-4">
+                    <?php pengurus(2); ?>                    
+                </div>
+            </div>
+            <!-- row -->
+
+            <div class="row" style="margin-bottom: 30px;">
+                <div class="col-lg-3">
+                    <?php pengurus(3); ?>                    
+                </div>
+                <div class="col-lg-3">
+                    <?php pengurus(4); ?>                    
+                </div>
+                <div class="col-lg-3">
+                    <?php pengurus(5); ?>                    
+                </div>
+                <div class="col-lg-3">
+                    <?php pengurus(6); ?>                    
+                </div>
+            </div>
+
+            <div id="more" class="collapse"> 
+                <!-- row -->
+                <div class="row">
+                    <div class="col-lg-6" style="margin-top: 30px;">
+                        <div class="row">
+                            <div class="col-lg-6" style="margin-top: 20px;">
+                                <?php pengurus(7); ?>                    
+                            </div>
+                            <div class="col-lg-6" style="margin-top: 20px;">
+                                <?php pengurus(8); ?>                    
+                            </div>
+                        </div>
+                    </div>
+                    <!--col-lg-5-->
+                    <div class="col-lg-6" style="margin-top: 30px;">
+                        <!--class box untuk memberi garis kotak, dipake buat ngokati per departemen-->
+                        <div class="row">
+                            <div class="col-lg-6" style="margin-top: 20px;">
+                                <?php pengurus(9); ?>                   
+                            </div>
+                            <div class="col-lg-6" style="margin-top: 20px;">
+                                <?php pengurus(10); ?>                   
+                            </div>
+                        </div>
+                        <!-- row -->
+                    </div>
+                    <!--col-lg-6-->
+                </div>
+                <!-- row -->
+
+                <div class="row">
+                    <div class="col-lg-6" style="margin-top: 60px;">
+                        <div class="row">
+                            <div class="col-lg-6" style="margin-top: 20px;">
+                                <?php pengurus(11); ?>                    
+                            </div>
+                            <div class="col-lg-6" style="margin-top: 20px;">
+                                <?php pengurus(12); ?>                    
+                            </div>
+                        </div>
+                        <!-- row -->
+                    </div>
+                    <!-- col-lg-5-->
+                    <div class="col-lg-6" style="margin-top: 60px;">
+                        <!--class box untuk memberi garis kotak, dipake buat ngokati per departemen-->
+                        <div class="row">
+                            <div class="col-lg-6" style="margin-top: 20px;">
+                                <?php pengurus(13); ?>                    
+                            </div>
+                            <div class="col-lg-6" style="margin-top: 20px;">
+                                <?php pengurus(14); ?>                    
+                            </div>
+                        </div>
+                    </div>
+                    <!-- col-lg-5-->
+                </div>
+                <!--row-->
+
+                <div class="row" style="margin-bottom: 30px">
+                    <div class="col-lg-6 col-lg-offset-3" style="margin-top: 60px;">
+                        <div class="row">
+                            <div class="col-lg-6" style="margin-top: 20px;">
+                                <?php pengurus(15); ?>                    
+                            </div>
+                            <div class="col-lg-6" style="margin-top: 20px;">
+                                <?php pengurus(16); ?>                    
+                            </div>
+                        </div>
+                        
+                    </div>
+                    <!-- col-lg-5-->
+                </div>
+                <!--row-->
+            </div>
+            <!-- collapse -->
+            <center>
+                <button type="button" class="btn btn-transparent" data-toggle="collapse" data-target="#more" style="margin-bottom: 30px">View More</button>
+            </center>
+        </div>
+        <!--container-->
+    </section>
+    <?php include 'modal.php'; ?>
+
 
     
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

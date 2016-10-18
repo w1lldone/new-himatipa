@@ -494,10 +494,12 @@ if ($_SESSION['pref']=='admin') {
 			mysql_query("UPDATE pengurus set
 				jabatan='$_POST[jabatan]',
 				nama='$_POST[nama]',
+				panggilan='$_POST[panggilan]',
 				tgl_lahir='$_POST[tanggal]',
 				angkatan='$_POST[angkatan]',
 				alamat='$_POST[alamat]',
 				motto='$_POST[motto]',
+				email='$_POST[email]',
 				fb='$_POST[fb]',
 				twt='$_POST[twt]',
 				ig='$_POST[ig]'
@@ -550,10 +552,12 @@ if ($_SESSION['pref']=='admin') {
 						gambar='$gambar',
 						jabatan='$_POST[jabatan]',
 						nama='$_POST[nama]',
+						panggilan='$_POST[panggilan]',
 						tgl_lahir='$_POST[tanggal]',
 						angkatan='$_POST[angkatan]',
 						alamat='$_POST[alamat]',
 						motto='$_POST[motto]',
+						email='$_POST[email]',
 						fb='$_POST[fb]',
 						twt='$_POST[twt]',
 						ig='$_POST[ig]'
@@ -566,6 +570,6 @@ if ($_SESSION['pref']=='admin') {
 			}
 		} 
 
-	}// edit galeri
+	}// edit pengurus
 } // session start	
 	?>
