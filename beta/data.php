@@ -52,9 +52,15 @@
 		$sql="select * from pengurus where id = $id ";
         $q=mysql_query($sql) or die(mysql_error());
         $row=mysql_fetch_array($q);
+        $pecah=explode(" ", $row['nama']);
+        $inisial[0]="";
+        if (isset($pecah[2]) && $pecah[2]!="") {
+           $inisial=str_split($pecah[2]);
+        }
+        $nama=$pecah[0]." ".$pecah[1]." ".$inisial[0];
 	    echo "<a href='#' data-toggle='modal' data-target='#$row[panggilan]'>";
 	    echo 	"<img class='img-circle center-block bundar' src='$row[gambar]' width='175' height='175' alt='logo'></a>";
-        echo "<h3 class='number timer'>$row[nama]</h3>";
+        echo "<h3 class='number timer'>$nama</h3>";
         echo "<h5>$row[jabatan]</h5>";
 	}
 ?>
